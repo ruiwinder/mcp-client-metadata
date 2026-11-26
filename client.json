@@ -1,0 +1,17 @@
+{
+  "client_id": "https://ruiwinder.github.io/mcp-client-metadata/client.json",
+  "client_name": "magpie (self-hosted)",
+  "client_uri": "https://ruiwinder.github.io/mcp-client-metadata/",
+  "redirect_uris": [
+    "http://localhost/callback",
+    "http://127.0.0.1/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
